@@ -6,9 +6,9 @@
 
 Cyberpunk OS es una máquina virtual basada en Linux Parrot Version 5.3 Electro Ara con arquitectura amd64, arm64.
 
-Esta '.ovf' tiene integradas distintas herramientas para investigaciones de recopilación de información en fuentes abiertas (OSINT) sobre Fake News.
+Esta '.ovf' tiene integradas distintas herramientas para investigaciones de recopilación de información en fuentes abiertas (OSINT) sobre noticias falsas o comunmente conocido en ingles **"Fake News"**.
 
-![escritorio](https://user-images.githubusercontent.com/)
+![desktop_screenshoot](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/be945696-be9d-4be9-a2e6-0fb180dabe17)
 
 
 ## Navegadores
@@ -63,6 +63,5 @@ En el siguiente enlace se ofrece un vídeo demostrativo de la distribución:
 
 # CONTACTO
 
-Para cualquier información o duda, podéis contactarme en:
-- Twitter: https://twitter.com/NebulosaOriON_
+
 
