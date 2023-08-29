@@ -103,17 +103,13 @@ The download link for the CyberPunkOS OVA can be found at the following link.
 - **OneDrive:**
 
 To access the machine, the following credentials are required:
-- User: Cyberpunk
-- Password: CyberpunkOS
+- **User:** Cyberpunk
+- **Password:** CyberpunkOS
 
 
 # DEMONSTRATION
 
 A demonstration video of the distribution is offered at the following link:
-
-
-
-
 
 
 
@@ -123,4 +119,4 @@ You can contact the contributors of this distribution at the following links.
 - :rage2:[Felipe Pezo](https://www.linkedin.com/in/fepezoabarca/)
 - :hurtrealbad:[Diana Rodriguez](https://www.linkedin.com/in/dianarodriguezcosme/)         :octocat:[Github](https://github.com/diannita)
 
-
+** Thanks for your support, we hope you can solve and find the true with our distro CyberPunk OS**
