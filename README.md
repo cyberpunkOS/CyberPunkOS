@@ -23,21 +23,21 @@ Cyberpunk OS has **3 different browsers (Chrome, Firefox and Tor)** with their r
 - Others
 
 ## TOOLS
-Se presenta en el menú principal las siguientes aplicaciones:
+![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/dee59d3d-236d-411c-b6b0-f8b45715065a)
+
+The following applications are presented in the main menu:
 - Firefox
 - Google Chrome
 - Tor Browser
 - Visual Studio Code
-- Suite de Libre Office
+- Libre Office Suite
 - VLC
-- Visor de imágenes
-- Tomar captura de pantalla
+- Pictures viewer
+- Take screenshot
 - Terminal
 - Computer
 - Cyberpunk Tools
 
-
-![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/f2645712-194e-4c63-a5f4-2a76027f948f)
 
 The **Tools** are:
 	   
