@@ -39,7 +39,7 @@ The following applications are presented in the main menu:
 - Cyberpunk Tools
 
 ### Cyberpunk Tools
-![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/d7f20b68-4d4a-4c5b-b075-5c90613dba6d)
+![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/4654e45a-547d-4715-b348-ebce2812dd2b)
 
 Cyberpunk Tools is a submenu where you will find the following OSINT tools:
 - Cyberpunk Tools Script (Script created for the distribution that contains tools for each of the categories of our hypothesis)
