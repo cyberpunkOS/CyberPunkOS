@@ -86,10 +86,16 @@ Once option number 1 is selected, we will be asked to enter a keyword for the se
 
 ![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/47941acd-c954-4ced-9197-cf6ec46be0ce)
 
+
 Execution results are stored in the Cyberpunk Tools output directory (command-level alias cpr):
+
 ![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/302a4cb1-28a5-44e2-bd97-d1f78907cd46)
 
 ![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/2a120e19-8153-45e3-8181-2f310e2a0a0b)
+
+
+## Atajos y alias / Shortcuts and aliases
+![Screenshot 2023-08-29 at 6 34 31 PM](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/5bb3ae9b-62c7-41de-b56f-f8cdc0a79e61)
 
 
 # DOWNLOAD
