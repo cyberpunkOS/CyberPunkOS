@@ -42,23 +42,23 @@ The following applications are presented in the main menu:
 ![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/4654e45a-547d-4715-b348-ebce2812dd2b)
 
 Cyberpunk Tools is a submenu where you will find the following OSINT tools:
-- Cyberpunk Tools Script (Script created for the distribution that contains tools for each of the categories)
-- Terminal as superUser
-- Bellingcat's Online Investigation Toolkit: Comprehensive OSINT resources for digital investigations.
-- Google News: Aggregator providing latest news articles from diverse sources.
-- Google Alerts: Notification service for tracking specified keywords in news and web content.
-- Fast Check Org: Fact-checking tool to verify online information and sources.
-- Reverse Image Search: Technique to find similar images online based on an uploaded image.
-- TinEye: Image search engine that locates where an image has been used on the internet.
-- Osint Combine: Tool to gather and analyze open-source intelligence (OSINT) data.
-- Forensically: Suite of digital forensics tools for analyzing images and metadata.
-- FotoForensic: Online tool to examine the authenticity and manipulation of images.
-- ExitInfo & Exit Data: Tools to extract and analyze metadata from images.
-- ExifTool: Software for viewing and editing metadata within files, including images.
-- Goris: OSINT tool for researching and analyzing online information.
-- Sherlock: Tool to search for a person's social media profiles across different platforms.
-- SpiderFoot CLI & SpiderFoot web: Open-source OSINT automation framework for data collection.
-- Maltego: Data visualization tool for link analysis and gathering information on entities.
+- **Cyberpunk Tools Script** (Script created for the distribution that contains tools for each of the categories)
+- **Terminal** as superUser
+- **Bellingcat's Online Investigation Toolkit:** Comprehensive OSINT resources for digital investigations.
+- **Google News:** Aggregator providing latest news articles from diverse sources.
+- **Google Alerts:** Notification service for tracking specified keywords in news and web content.
+- **Fast Check Org:** Fact-checking tool to verify online information and sources.
+- **Reverse Image Search:** Technique to find similar images online based on an uploaded image.
+- **TinEye:** Image search engine that locates where an image has been used on the internet.
+- **Osint Combine:** Tool to gather and analyze open-source intelligence (OSINT) data.
+- **Forensically:** Suite of digital forensics tools for analyzing images and metadata.
+- **FotoForensic:** Online tool to examine the authenticity and manipulation of images.
+- **ExitInfo & Exit Data:** Tools to extract and analyze metadata from images.
+- **ExifTool:** Software for viewing and editing metadata within files, including images.
+- **Goris:** OSINT tool for researching and analyzing online information.
+- **Sherlock:** Tool to search for a person's social media profiles across different platforms.
+- **SpiderFoot:** Open-source OSINT automation framework for data collection.
+- **Maltego:** Data visualization tool for link analysis and gathering information on entities.
 
 
 ### Cyberpunk OS Script
