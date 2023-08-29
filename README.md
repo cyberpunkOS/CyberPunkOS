@@ -119,4 +119,4 @@ You can contact the contributors of this distribution at the following links.
 - :rage2:[Felipe Pezo](https://www.linkedin.com/in/fepezoabarca/)
 - :hurtrealbad:[Diana Rodriguez](https://www.linkedin.com/in/dianarodriguezcosme/)         :octocat:[Github](https://github.com/diannita)
 
-** Thanks for your support, we hope you can solve and find the true with our distro CyberPunk OS**
+**Thanks for your support, we hope you can solve and find the true with our distro CyberPunk OS**
