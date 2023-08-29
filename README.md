@@ -62,9 +62,29 @@ Cyberpunk Tools is a submenu where you will find the following OSINT tools:
 - SpiderFoot web
 - Maltego
 
-The **Tools** are:
-	   
+### Cyberpunk OS Script
+The script has been created using mainly Python, but also has some parts in Bash. We have based the script on our hypothesis, so we have created the following categories:
+- Data Collection and Verification
+- Analysis and Visualization
+- Web Scrapping
+- Social Networks and Analytics
+- News Search and Monitoring
+- Anonymity and Privacy
+- Exit
+
+![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/c812ad73-7957-409b-b008-03357b66de18)
+
+
+### Script cpNews (Cyberpunk News)
+We have created a Python script that performs a keyword search across various RSS feeds from the world's leading news outlets. This script can be executed from option 5 (Search and Monitoring News) of the CyberpunkTools script, to then select option number 1 – CyberpunkOS News:
+
+![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/38343247-658a-42eb-9269-fdcb1316fce1)
      
+Once option number 1 is selected, we will be asked to enter a keyword for the search, for example Chile. The program will show all the news related to Chile
+
+![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/221ee5e9-f9db-4ba2-b3c1-b4324ecc804c)
+
+![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/47941acd-c954-4ced-9197-cf6ec46be0ce)
 
 
 # DOWNLOAD
