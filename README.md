@@ -38,6 +38,29 @@ The following applications are presented in the main menu:
 - Computer
 - Cyberpunk Tools
 
+### Cyberpunk Tools
+![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/d7f20b68-4d4a-4c5b-b075-5c90613dba6d)
+
+Cyberpunk Tools is a submenu where you will find the following OSINT tools:
+- Cyberpunk Tools Script (Script created for the distribution that contains tools for each of the categories of our hypothesis)
+- Terminal as superuser
+- Bellingcat's Online Investigation Toolkit
+- Google news
+- Google Alerts
+- Fast Check Org
+- Reverse Image Search
+- TinEye
+- Osint Combine
+- Forensically
+- PhotoForensic
+- ExitInfo
+- Exit Data
+- ExifTool
+- Goris
+- Sherlock
+- SpiderFoot CLI
+- SpiderFoot web
+- Maltego
 
 The **Tools** are:
 	   
