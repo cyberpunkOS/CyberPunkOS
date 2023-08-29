@@ -37,7 +37,7 @@ Se presenta en el menú principal las siguientes aplicaciones:
 - Cyberpunk Tools
 
 
-![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/ddc27ec1-d1b9-44c1-85e2-1e1f23735e0e)
+![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/f2645712-194e-4c63-a5f4-2a76027f948f)
 
 The **Tools** are:
 	   
