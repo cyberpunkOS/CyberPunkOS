@@ -116,7 +116,7 @@ A demonstration video of the distribution is offered at the following link:
 # CONTACT
 
 You can contact the contributors of this distribution at the following links.
-- [Felipe Pezo](https://www.linkedin.com/in/fepezoabarca/)
-- [Diana Rodriguez](https://www.linkedin.com/in/dianarodriguezcosme/) :octocat:[Github](https://github.com/diannita)
+- :rage2:[Felipe Pezo](https://www.linkedin.com/in/fepezoabarca/)
+- :hurtrealbad:[Diana Rodriguez](https://www.linkedin.com/in/dianarodriguezcosme/)         :octocat:[Github](https://github.com/diannita)
 
 
