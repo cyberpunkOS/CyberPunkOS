@@ -42,25 +42,24 @@ The following applications are presented in the main menu:
 ![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/4654e45a-547d-4715-b348-ebce2812dd2b)
 
 Cyberpunk Tools is a submenu where you will find the following OSINT tools:
-- Cyberpunk Tools Script (Script created for the distribution that contains tools for each of the categories of our hypothesis)
-- Terminal as superuser
-- Bellingcat's Online Investigation Toolkit
-- Google news
-- Google Alerts
-- Fast Check Org
-- Reverse Image Search
-- TinEye
-- Osint Combine
-- Forensically
-- PhotoForensic
-- ExitInfo
-- Exit Data
-- ExifTool
-- Goris
-- Sherlock
-- SpiderFoot CLI
-- SpiderFoot web
-- Maltego
+- **Cyberpunk Tools Script** (Script created for the distribution that contains tools for each of the categories)
+- **Terminal** as superUser
+- **Bellingcat's Online Investigation Toolkit:** Comprehensive OSINT resources for digital investigations.
+- **Google News:** Aggregator providing latest news articles from diverse sources.
+- **Google Alerts:** Notification service for tracking specified keywords in news and web content.
+- **Fast Check Org:** Fact-checking tool to verify online information and sources.
+- **Reverse Image Search:** Technique to find similar images online based on an uploaded image.
+- **TinEye:** Image search engine that locates where an image has been used on the internet.
+- **Osint Combine:** Tool to gather and analyze open-source intelligence (OSINT) data.
+- **Forensically:** Suite of digital forensics tools for analyzing images and metadata.
+- **FotoForensic:** Online tool to examine the authenticity and manipulation of images.
+- **ExitInfo & Exit Data:** Tools to extract and analyze metadata from images.
+- **ExifTool:** Software for viewing and editing metadata within files, including images.
+- **Goris:** OSINT tool for researching and analyzing online information.
+- **Sherlock:** Tool to search for a person's social media profiles across different platforms.
+- **SpiderFoot:** Open-source OSINT automation framework for data collection.
+- **Maltego:** Data visualization tool for link analysis and gathering information on entities.
+
 
 ### Cyberpunk OS Script
 The script has been created using mainly Python, but also has some parts in Bash. We have based the script on our hypothesis, so we have created the following categories:
@@ -70,7 +69,6 @@ The script has been created using mainly Python, but also has some parts in Bash
 - Social Networks and Analytics
 - News Search and Monitoring
 - Anonymity and Privacy
-- Exit
 
 ![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/c812ad73-7957-409b-b008-03357b66de18)
 
@@ -100,22 +98,25 @@ Execution results are stored in the Cyberpunk Tools output directory (command-le
 
 # DOWNLOAD
 
-**Important**:
+The download link for the CyberPunkOS OVA can be found at the following link.
+- **MEGA:**
+- **OneDrive:**
 
-
+To access the machine, the following credentials are required:
+- **User:** Cyberpunk
+- **Password:** CyberpunkOS
 
 
 # DEMONSTRATION
 
-En el siguiente enlace se ofrece un vídeo demostrativo de la distribución:
-
-
-
-
+A demonstration video of the distribution is offered at the following link:
 
 
 
 # CONTACT
 
+You can contact the contributors of this distribution at the following links.
+- :rage2:[Felipe Pezo](https://www.linkedin.com/in/fepezoabarca/)
+- :hurtrealbad:[Diana Rodriguez](https://www.linkedin.com/in/dianarodriguezcosme/)         :octocat:[Github](https://github.com/diannita)
 
-
+**Thanks for your support, we hope you can solve and find the true :hurtrealbad: with our distro CyberPunk OS**
