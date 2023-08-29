@@ -99,8 +99,12 @@ Execution results are stored in the Cyberpunk Tools output directory (command-le
 # DOWNLOAD
 
 The download link for the CyberPunkOS OVA can be found at the following link.
+- **MEGA:**
+- **OneDrive:**
 
-
+To access the machine, the following credentials are required:
+- User: Cyberpunk
+- Password: CyberpunkOS
 
 
 # DEMONSTRATION
