@@ -11,8 +11,13 @@ This '.ovf' has integrated different tools for investigations of information gat
 
 
 ## BROWSERS
-
-
+Cyberpunk OS has **3 different browsers (Chrome, Firefox and Tor)** with their respective bookmarks and web extensions. Browser bookmarks are categorized:
+- Recopilacion de datos y verificacion
+- Analisis y visualizacion
+- Web Scrapping
+- Redes sociales y analisis
+- Busqueda y monitoreo de noticias
+- Anonimato y privacidad
 
 
 ## TOOLS
