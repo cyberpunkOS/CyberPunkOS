@@ -74,7 +74,7 @@ The script has been created using mainly Python, but also has some parts in Bash
 
 
 ### Script cpNews (Cyberpunk News)
-We have created a Python script that performs a keyword search across various RSS feeds from the world's leading news outlets. This script can be executed from option 5 (Search and Monitoring News) of the CyberpunkTools script, to then select option number 1 – CyberpunkOS News:
+We have created a Python script that performs a keyword search across various RSS feeds from the world's leading news outlets. This script can be executed from option 5 (Search and Monitoring News) of the CyberpunkTools script. Then select option number 1 – CyberpunkOS News:
 
 ![image](https://github.com/cyberpunkOS/CyberPunkOS/assets/76630368/38343247-658a-42eb-9269-fdcb1316fce1)
      
@@ -119,4 +119,4 @@ You can contact the contributors of this distribution at the following links.
 - :rage2:[Felipe Pezo](https://www.linkedin.com/in/fepezoabarca/)
 - :hurtrealbad:[Diana Rodriguez](https://www.linkedin.com/in/dianarodriguezcosme/)         :octocat:[Github](https://github.com/diannita)
 
-**Thanks for your support, we hope you can solve and find the true :hurtrealbad: with our distro CyberPunk OS**
+**Thanks for your support, we hope you can solve and find the truth :hurtrealbad: with our distro CyberPunk OS**
