@@ -99,8 +99,7 @@ Execution results are stored in the Cyberpunk Tools output directory (command-le
 # DOWNLOAD
 
 The download link for the CyberPunkOS OVA can be found at the following link.
-- **MEGA:**
-- **OneDrive:**
+- **MEGA:** https://mega.nz/folder/lylQ1R5K#_g8Wzdxaw0yiOQOFtCKLrA 
 
 To access the machine, the following credentials are required:
 - **User:** Cyberpunk
@@ -108,8 +107,9 @@ To access the machine, the following credentials are required:
 
 
 # DEMONSTRATION
+![Screenshot 2023-09-03 at 10 03 22 AM](https://github.com/Cl4r4-5/OriON/assets/143293277/6259e6ca-9918-4f11-b3c7-ebd39aa9cb22)
 
-A demonstration video of the distribution is offered at the following link:
+A demonstration video of the distribution is offered at the following link: [CyberPunkOS](https://www.youtube.com/watch?v=TD_dXGuYtzo)
 
 
 
